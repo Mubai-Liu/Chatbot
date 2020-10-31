@@ -1,4 +1,4 @@
-# 202005-28 Machine with Personality-Persuasive Chatbot
+# [202005-28 Machine with Personality-Persuasive Chatbot](https://www.ee.columbia.edu/~cylin/course/bigdata/projects/)
 
 Check our Youtube video for more details our project.
 [Link](https://youtu.be/da8ayvIP2u0)
