@@ -23,3 +23,6 @@ persuader.tsv - Data after little preprocess
 models.py - Encoder-Decoder model
 
 dataUtils.py - All data preprocess
+
+# Data
+[Link](https://gitlab.com/ucdavisnlp/persuasionforgood)
