@@ -27,4 +27,4 @@ dataUtils.py - All data preprocess
 # Data
 [Link](https://gitlab.com/ucdavisnlp/persuasionforgood)
 
-# Detail Description
+# [Detail Description](MachinePersonality.pdf)
